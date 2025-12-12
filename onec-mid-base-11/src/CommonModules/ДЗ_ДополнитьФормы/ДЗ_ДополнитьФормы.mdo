@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a5a7e280-e626-4469-b4ef-686a9f870ac0">
+  <name>ДЗ_ДополнитьФормы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дополнить формы</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>
